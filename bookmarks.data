@@ -1,24 +1,15 @@
-<li title="debian, planet"><a href="http://planet.debian.org/">Planet Debian</a></li>
-<li title="debian, development"><a href="http://www.debian.org/devel/">Debian Developers' Corner</a></li>
-<li title="sysadmin, planet"><a href="http://planetsysadmin.com/">Planet Sysadmin</a></li>
-<li title="sysadmin, reddit"><a href="http://www.reddit.com/r/sysadmin">Reddit: /r/sysadmin</a></li>
-<li title="blog, microsoft"><a href="http://blogs.msdn.com/b/oldnewthing/">The old new thing</a></li>
-<li title="blog, personal"><a href="https://blog.steve.fi/">Steve Kemp's blog</a></li>
-<li title="personal"><a href="https://steve.fi/">Steve Kemp's Website</a></li>
-<li title="development, personal"><a href="https://github.com/skx/">Steve Kemp's github account</a></li>
-<li title="news"><a href="https://news.ycombinator.com/">Hacker News</a></li>
-<li title="news, edinburgh"><a href="http://www.scotsman.com/edinburgh-evening-news">Edinburgh Evening News</a></li>
-<li title="pippo pelo, NEws"><a href="http://www.bbc.co.uk/news/">BBC News</a></li>
-<li title="personal, sysadmin, debian"><a href="http://debian-administration.org/">Debian Administration</a></li>
-<li title="sysadmin, stackexchange"><a href="http://serverfault.com/">Server Fault</a></li>
-<li title="photography, stackexchange"><a href="http://photo.stackexchange.com/">Photography Exchange</a></li>
-<li title="reddit, photography"><a href="http://www.reddit.com/r/photography/">Reddit /r/photography</a></li>
-<li><a href="http://www.thepondleith.co.uk/">The Pond, Leith</a></li>
-<li title="tools, privacy, online"><a href="https://amiunique.org/fp">Am I unique? Browser fingerprinting</a></li>
-<li title="aws, route53, amazon, github"><a href="https://github.com/open-guides/og-aws">Amazon Web Services — a practical guide</a></li>
-<li><a href="http://blog.darknedgy.net/technology/2015/09/05/0/">A history of modern init systems (1992-2015)</a></li>
-<li title="finnish, wikipedia, language, learning"><a href="http://en.wikipedia.org/wiki/Finnish_numerals">Finnish Numerals</a></li>
-<li title="prison, arrest, wikipedia"><a href="https://en.wikipedia.org/wiki/Cornealious_Michael_Anderson_III">Cornealious Michael Anderson III</a></li>
-<li title="geometry, wikipedia"><a href="https://en.wikipedia.org/wiki/Borromean_rings">Borromean Rings</a></li>
-<li title="geometry, wikipedia"><a href="https://en.wikipedia.org/wiki/Looped_square">Looped square</a></li>
-<li title="helsinki, finland, forum"><a href="http://www.finlandforum.org/">Moving to Finland, living in Finland, expat life in Finland & Finland Forum</a></li>
+<li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
+<li title="javascript, webdev" time="1483351343"><a href="http://ejohn.org/apps/learn/">Learning Advanced Javascript</a></li>
+<li title="purescript, webdev" time="1483351383"><a href="http://jandupal.com/Web-Workers-in-PureScript-part-I/">Web Workers in PureScript</a></li>
+<li title="css, webdev" time="1483351418"><a href="http://cssreference.io/">Visual guide to CSS</a></li>
+<li title="wood, diy" time="1483351464"><a href="http://woodgears.ca/beginner/">Beginning woodworking</a></li>
+<li title="fp" time="1483351493"><a href="Beginning woodworking">Beginning woodworking</a></li>
+<li title="data minning" time="1483351556"><a href="http://mmds.org/">Mining of Massive Datasets</a></li>
+<li title="deep learning, neural networks" time="1483351615"><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a></li>
+<li title="fp" time="1483352038"><a href="https://github.com/passy/awesome-recursion-schemes">Awesome Recursion Schemes </a></li>
+<li title="fp, scala" time="1483352155"><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
+<li title="basket" time="1483352180"><a href="http://www.coachesclipboard.net/BasketballDrills.html">Basketball Drills</a></li>
+<li title="python" time="1483352207"><a href="http://newcoder.io/">New Coder</a></li>
+<li title="math, category theory" time="1483352254"><a href="http://www.mimuw.edu.pl/~tarlecki/teaching/ct/">Category Theory in Foundations of Computer Science</a></li>
+<li title="productivity" time="1483445190"><a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">Set goals with OKRs</a></li>
+<li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
