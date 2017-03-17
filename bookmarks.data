@@ -6,6 +6,7 @@
 <li title="wood, diy" time="1483351464"><a href="http://woodgears.ca/beginner/">Beginning woodworking</a></li>
 <li title="math, category theory" time="1483352254"><a href="http://www.mimuw.edu.pl/~tarlecki/teaching/ct/">Category Theory in Foundations of Computer Science</a></li>
 <li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
+<li title="purescript, webdev, " time="1489614248"><a href="https://blog.ecliptic.io/gradual-purescript-fa84ad99fdbd">Gradual PureScript</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
 <li title="ee, fp" time="1484043663"><a href="http://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html">Isomorpisms of digital circuts</a></li>
@@ -19,4 +20,4 @@
 <li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
 <li title="css, webdev" time="1483351418"><a href="http://cssreference.io/">Visual guide to CSS</a></li>
 <li title="purescript, webdev" time="1483351383"><a href="http://jandupal.com/Web-Workers-in-PureScript-part-I/">Web Workers in PureScript</a></li>
-<li title="purescript, webdev, " time="1489614248"><a href="https://blog.ecliptic.io/gradual-purescript-fa84ad99fdbd">Gradual PureScript</a></li>
+<li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
