@@ -1,31 +1,32 @@
 <li title="fp, haskell" time="1486130884"><a href="http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html"> Why free monads matter</a></li>
+<li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
 <li title="fp" time="1484331569"><a href="http://degoes.net/articles/modern-fp">A Modern Architecture for FP</a></li>
 <li title="webdev" time="1487946993"><a href="https://cloud.google.com/apis/design/">API Design Guide</a></li>
 <li title="fp" time="1483352038"><a href="https://github.com/passy/awesome-recursion-schemes">Awesome Recursion Schemes </a></li>
 <li title="basket" time="1483352180"><a href="http://www.coachesclipboard.net/BasketballDrills.html">Basketball Drills</a></li>
 <li title="wood, diy" time="1483351464"><a href="http://woodgears.ca/beginner/">Beginning woodworking</a></li>
 <li title="math, category theory" time="1483352254"><a href="http://www.mimuw.edu.pl/~tarlecki/teaching/ct/">Category Theory in Foundations of Computer Science</a></li>
+<li title="security" time="1490256564"><a href="https://cybersecuritybase.github.io/">Cyber Security Base</a></li>
+<li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
 <li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
 <li title="purescript, webdev, " time="1489614248"><a href="https://blog.ecliptic.io/gradual-purescript-fa84ad99fdbd">Gradual PureScript</a></li>
+<li title="ops" time="1490256472"><a href="https://www.ops-class.org/">Hack The Kernel</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
 <li title="ee, fp" time="1484043663"><a href="http://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html">Isomorpisms of digital circuts</a></li>
 <li title="javascript, webdev" time="1483351343"><a href="http://ejohn.org/apps/learn/">Learning Advanced Javascript</a></li>
 <li title="data minning" time="1483351556"><a href="http://mmds.org/">Mining of Massive Datasets</a></li>
+<li title="c++, fp, algo" time="1490257565"><a href="https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/">Modern C++ and Lisp Programming Style</a></li>
 <li title="fp, haskell" time="1486223736"><a href="https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html">Monad transformers, free monads, mtl, laws and a new approach</a></li>
 <li title="deep learning, neural networks" time="1483351615"><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a></li>
 <li title="python" time="1483352207"><a href="http://newcoder.io/">New Coder</a></li>
+<li title="ops, " time="1490257234"><a href="https://tuhdo.github.io/os01/">Operating Systems: From 0 to 1</a></li>
+<li title="c++, graphics" time="1490257481"><a href="http://www.marti.works/render-pipelines-desing-in-c/">Render Pipelines desing in C++</a></li>
 <li title="fp, scala" time="1483352155"><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
 <li title="productivity" time="1483445190"><a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">Set goals with OKRs</a></li>
 <li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
 <li title="css, webdev" time="1483351418"><a href="http://cssreference.io/">Visual guide to CSS</a></li>
 <li title="purescript, webdev" time="1483351383"><a href="http://jandupal.com/Web-Workers-in-PureScript-part-I/">Web Workers in PureScript</a></li>
-<li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
-<li title="ops" time="1490256472"><a href="https://www.ops-class.org/">Hack The Kernel</a></li>
-<li title="security" time="1490256564"><a href="https://cybersecuritybase.github.io/">Cyber Security Base</a></li>
-<li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
-<li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="ops, " time="1490257234"><a href="https://tuhdo.github.io/os01/">Operating Systems: From 0 to 1</a></li>
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
-<li title="c++, graphics" time="1490257481"><a href="http://www.marti.works/render-pipelines-desing-in-c/">Render Pipelines desing in C++</a></li>
-<li title="c++, fp, algo" time="1490257565"><a href="https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/">Modern C++ and Lisp Programming Style</a></li>
+<li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
+<li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
