@@ -5,6 +5,7 @@
 <li title="fp" time="1483352038"><a href="https://github.com/passy/awesome-recursion-schemes">Awesome Recursion Schemes </a></li>
 <li title="basket" time="1483352180"><a href="http://www.coachesclipboard.net/BasketballDrills.html">Basketball Drills</a></li>
 <li title="wood, diy" time="1483351464"><a href="http://woodgears.ca/beginner/">Beginning woodworking</a></li>
+<li title="category theory, fp, math" time="1493138708"><a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">Category Theory for Programmers</a></li>
 <li title="math, category theory" time="1483352254"><a href="http://www.mimuw.edu.pl/~tarlecki/teaching/ct/">Category Theory in Foundations of Computer Science</a></li>
 <li title="security" time="1490256564"><a href="https://cybersecuritybase.github.io/">Cyber Security Base</a></li>
 <li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
@@ -18,6 +19,7 @@
 <li title="data minning" time="1483351556"><a href="http://mmds.org/">Mining of Massive Datasets</a></li>
 <li title="c++, fp, algo" time="1490257565"><a href="https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/">Modern C++ and Lisp Programming Style</a></li>
 <li title="fp, haskell" time="1486223736"><a href="https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html">Monad transformers, free monads, mtl, laws and a new approach</a></li>
+<li title="fp, assembly" time="1493128445"><a href="http://www.stephendiehl.com/posts/monads_machine_code.html">Monads to Machine Code</a></li>
 <li title="deep learning, neural networks" time="1483351615"><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a></li>
 <li title="python" time="1483352207"><a href="http://newcoder.io/">New Coder</a></li>
 <li title="ops, " time="1490257234"><a href="https://tuhdo.github.io/os01/">Operating Systems: From 0 to 1</a></li>
@@ -30,5 +32,4 @@
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="fp, assembly" time="1493128445"><a href="http://www.stephendiehl.com/posts/monads_machine_code.html">Monads to Machine Code</a></li>
-<li title="category theory, fp, math" time="1493138708"><a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">Category Theory for Programmers</a></li>
+<li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
