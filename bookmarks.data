@@ -12,6 +12,7 @@
 <li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
 <li title="purescript, webdev, " time="1489614248"><a href="https://blog.ecliptic.io/gradual-purescript-fa84ad99fdbd">Gradual PureScript</a></li>
 <li title="ops" time="1490256472"><a href="https://www.ops-class.org/">Hack The Kernel</a></li>
+<li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
 <li title="ee, fp" time="1484043663"><a href="http://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html">Isomorpisms of digital circuts</a></li>
@@ -32,4 +33,4 @@
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
+<li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a></li>
