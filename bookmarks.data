@@ -34,3 +34,7 @@
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
 <li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a></li>
+<li title="fp, javascript" time="1495284778"><a href="http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html">All About Recursion, PTC, TCO and STC in JavaScript</a></li>
+<li title="webdev" time="1495284829"><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
+<li title="webdev, security" time="1495284900"><a href="https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0">Authentication Techniques for APIs</a></li>
+<li title="webdev, security, javascript" time="1495284950"><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
