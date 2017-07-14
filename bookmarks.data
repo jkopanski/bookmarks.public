@@ -11,6 +11,7 @@
 <li title="wood, diy" time="1483351464"><a href="http://woodgears.ca/beginner/">Beginning woodworking</a></li>
 <li title="category theory, fp, math" time="1493138708"><a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">Category Theory for Programmers</a></li>
 <li title="math, category theory" time="1483352254"><a href="http://www.mimuw.edu.pl/~tarlecki/teaching/ct/">Category Theory in Foundations of Computer Science</a></li>
+<li title="haskell, fp" time="1499326349"><a href="http://infohost.nmt.edu/~shipman/soft/cleanhaskell/web/index.html">Cleanroom Haskell notes</a></li>
 <li title="ee" time="1498987359"><a href="http://curtisma.org/">Curtis Mayberry Homepage</a></li>
 <li title="security" time="1490256564"><a href="https://cybersecuritybase.github.io/">Cyber Security Base</a></li>
 <li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
@@ -51,4 +52,4 @@
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="haskell, fp" time="1499326349"><a href="http://infohost.nmt.edu/~shipman/soft/cleanhaskell/web/index.html">Cleanroom Haskell notes</a></li>
+<li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
