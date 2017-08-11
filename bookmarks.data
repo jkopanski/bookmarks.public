@@ -37,6 +37,7 @@
 <li title="algo, math" time="1498986799"><a href="http://inconvergent.net/generative/">On Generative Algorithms</a></li>
 <li title="ops, " time="1490257234"><a href="https://tuhdo.github.io/os01/">Operating Systems: From 0 to 1</a></li>
 <li title="haskell, fp" time="1498986414"><a href="http://chimera.labs.oreilly.com/books/1230000000929/index.html">Parallel and Concurrent Programming in Haskell</a></li>
+<li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
 <li title="c++, graphics" time="1490257481"><a href="http://www.marti.works/render-pipelines-desing-in-c/">Render Pipelines desing in C++</a></li>
 <li title="webdev" time="1495284829"><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
 <li title="fp, scala" time="1483352155"><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
@@ -52,4 +53,4 @@
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="fp, math" time="1499591619"><a href="http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/">Where do Type Systems Come From?</a></li>
+<li title="fp, haskell" time="1502473396"><a href="http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html">State machine testing with Hedgehog</a></li>
