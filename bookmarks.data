@@ -54,3 +54,4 @@
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
 <li title="fp, haskell" time="1502473396"><a href="http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html">State machine testing with Hedgehog</a></li>
+<li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
