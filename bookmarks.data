@@ -1,8 +1,10 @@
 <li title="fp, haskell" time="1486130884"><a href="http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html"> Why free monads matter</a></li>
 <li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
 <li title="fp" time="1484331569"><a href="http://degoes.net/articles/modern-fp">A Modern Architecture for FP</a></li>
+<li title="fp, haskell" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
 <li title="algo" time="1498987292"><a href="http://courses.csail.mit.edu/6.851/">Advanced Data Structures</a></li>
 <li title="fp, javascript" time="1495284778"><a href="http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html">All About Recursion, PTC, TCO and STC in JavaScript</a></li>
+<li title="llvm" time="1502729363"><a href="https://nicoleorchard.com/blog/compilers">An Intro to Compilers</a></li>
 <li title="webdev" time="1487946993"><a href="https://cloud.google.com/apis/design/">API Design Guide</a></li>
 <li title="category theory, fp" time="1498986972"><a href="http://smallcultfollowing.com/babysteps/blog/2016/11/04/associated-type-constructors-part-3-what-higher-kinded-types-might-look-like/">Associated type constructors, part 3: What higher-kinded types might look like</a></li>
 <li title="webdev, security" time="1495284900"><a href="https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0">Authentication Techniques for APIs</a></li>
@@ -55,5 +57,4 @@
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="fp, haskell" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
-<li title="llvm" time="1502729363"><a href="https://nicoleorchard.com/blog/compilers">An Intro to Compilers</a></li>
+<li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
