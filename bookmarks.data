@@ -40,7 +40,6 @@
 <li title="ops, " time="1490257234"><a href="https://tuhdo.github.io/os01/">Operating Systems: From 0 to 1</a></li>
 <li title="haskell, fp" time="1498986414"><a href="http://chimera.labs.oreilly.com/books/1230000000929/index.html">Parallel and Concurrent Programming in Haskell</a></li>
 <li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
-<li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
 <li title="c++, graphics" time="1490257481"><a href="http://www.marti.works/render-pipelines-desing-in-c/">Render Pipelines desing in C++</a></li>
 <li title="webdev" time="1495284829"><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
 <li title="fp, scala" time="1483352155"><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
@@ -48,7 +47,7 @@
 <li title="startup, sales, analytics" time="1498986680"><a href="https://getpocket.com/a/read/1216744029">Setting up Sales Funnel across websites in Google Analytics</a></li>
 <li title="fp, haskell" time="1502473396"><a href="http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html">State machine testing with Hedgehog</a></li>
 <li title="security" time="1498987011"><a href="http://dustwell.com/how-to-handle-passwords-bcrypt.html">Storing User Passwords Securely: hashing, salting, and Bcrypt</a></li>
-<li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a></li>
+<li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a><span class="context">&nbsp;✎&nbsp;</span><span class="context">&nbsp;♻&nbsp;</span></li>
 <li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
 <li title="webdev, security, javascript" time="1495284950"><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
 <li title="shell, unix" time="1498987155"><a href="http://porkmail.org/era/unix/award.html">Useless Use of Cat Award</a></li>
@@ -56,5 +55,7 @@
 <li title="purescript, webdev" time="1483351383"><a href="http://jandupal.com/Web-Workers-in-PureScript-part-I/">Web Workers in PureScript</a></li>
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
-<li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
+<li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
+<li title="haskell, fp, proglang" time="1503254978"><a href="http://www.cse.chalmers.se/edu/year/2015/course/DAT150/lectures/proglang-07.html">Programming Languages Course: Type Checking</a></li>
+<li title="proglang" time="1503255193"><a href="https://www.cs.cornell.edu/courses/cs4110/2016fa/schedule.html">CS 4110: Programming Languages and Logics</a></li>
