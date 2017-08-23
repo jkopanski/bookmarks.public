@@ -1,5 +1,6 @@
 <li title="fp, haskell" time="1486130884"><a href="http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html"> Why free monads matter</a></li>
 <li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
+<li title="hw" time="1503472567"><a href="https://danluu.com/branch-prediction/">A history of branch prediction from 1500000 BC to 1995</a></li>
 <li title="fp" time="1484331569"><a href="http://degoes.net/articles/modern-fp">A Modern Architecture for FP</a></li>
 <li title="fp, haskell, proglang" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
 <li title="algo" time="1498987292"><a href="http://courses.csail.mit.edu/6.851/">Advanced Data Structures</a></li>
@@ -59,4 +60,4 @@
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="hw" time="1503472567"><a href="https://danluu.com/branch-prediction/">A history of branch prediction from 1500000 BC to 1995</a></li>
+<li title="haskell, mobile" time="1503472788"><a href="https://brianmckenna.org/blog/eta_android">Haskell on Android using Eta</a></li>
