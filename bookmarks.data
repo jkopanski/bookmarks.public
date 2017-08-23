@@ -1,7 +1,7 @@
 <li title="fp, haskell" time="1486130884"><a href="http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html"> Why free monads matter</a></li>
 <li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
 <li title="fp" time="1484331569"><a href="http://degoes.net/articles/modern-fp">A Modern Architecture for FP</a></li>
-<li title="fp, haskell" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
+<li title="fp, haskell, proglang" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
 <li title="algo" time="1498987292"><a href="http://courses.csail.mit.edu/6.851/">Advanced Data Structures</a></li>
 <li title="fp, javascript" time="1495284778"><a href="http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html">All About Recursion, PTC, TCO and STC in JavaScript</a></li>
 <li title="llvm" time="1502729363"><a href="https://nicoleorchard.com/blog/compilers">An Intro to Compilers</a></li>
@@ -14,6 +14,7 @@
 <li title="category theory, fp, math" time="1493138708"><a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">Category Theory for Programmers</a></li>
 <li title="math, category theory" time="1483352254"><a href="http://www.mimuw.edu.pl/~tarlecki/teaching/ct/">Category Theory in Foundations of Computer Science</a></li>
 <li title="haskell, fp" time="1499326349"><a href="http://infohost.nmt.edu/~shipman/soft/cleanhaskell/web/index.html">Cleanroom Haskell notes</a></li>
+<li title="proglang" time="1503255193"><a href="https://www.cs.cornell.edu/courses/cs4110/2016fa/schedule.html">CS 4110: Programming Languages and Logics</a></li>
 <li title="ee" time="1498987359"><a href="http://curtisma.org/">Curtis Mayberry Homepage</a></li>
 <li title="security" time="1490256564"><a href="https://cybersecuritybase.github.io/">Cyber Security Base</a></li>
 <li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
@@ -39,6 +40,7 @@
 <li title="algo, math" time="1498986799"><a href="http://inconvergent.net/generative/">On Generative Algorithms</a></li>
 <li title="ops, " time="1490257234"><a href="https://tuhdo.github.io/os01/">Operating Systems: From 0 to 1</a></li>
 <li title="haskell, fp" time="1498986414"><a href="http://chimera.labs.oreilly.com/books/1230000000929/index.html">Parallel and Concurrent Programming in Haskell</a></li>
+<li title="haskell, fp, proglang" time="1503254978"><a href="http://www.cse.chalmers.se/edu/year/2015/course/DAT150/lectures/proglang-07.html">Programming Languages Course: Type Checking</a></li>
 <li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
 <li title="c++, graphics" time="1490257481"><a href="http://www.marti.works/render-pipelines-desing-in-c/">Render Pipelines desing in C++</a></li>
 <li title="webdev" time="1495284829"><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
@@ -57,5 +59,4 @@
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="haskell, fp, proglang" time="1503254978"><a href="http://www.cse.chalmers.se/edu/year/2015/course/DAT150/lectures/proglang-07.html">Programming Languages Course: Type Checking</a></li>
-<li title="proglang" time="1503255193"><a href="https://www.cs.cornell.edu/courses/cs4110/2016fa/schedule.html">CS 4110: Programming Languages and Logics</a></li>
+<li title="hw" time="1503472567"><a href="https://danluu.com/branch-prediction/">A history of branch prediction from 1500000 BC to 1995</a></li>
