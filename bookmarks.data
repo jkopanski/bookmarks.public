@@ -1,7 +1,8 @@
 <li title="fp, haskell" time="1486130884"><a href="http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html"> Why free monads matter</a></li>
 <li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
+<li title="hw" time="1503472567"><a href="https://danluu.com/branch-prediction/">A history of branch prediction from 1500000 BC to 1995</a></li>
 <li title="fp" time="1484331569"><a href="http://degoes.net/articles/modern-fp">A Modern Architecture for FP</a></li>
-<li title="fp, haskell" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
+<li title="fp, haskell, proglang" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
 <li title="algo" time="1498987292"><a href="http://courses.csail.mit.edu/6.851/">Advanced Data Structures</a></li>
 <li title="fp, javascript" time="1495284778"><a href="http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html">All About Recursion, PTC, TCO and STC in JavaScript</a></li>
 <li title="llvm" time="1502729363"><a href="https://nicoleorchard.com/blog/compilers">An Intro to Compilers</a></li>
@@ -14,6 +15,7 @@
 <li title="category theory, fp, math" time="1493138708"><a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/">Category Theory for Programmers</a></li>
 <li title="math, category theory" time="1483352254"><a href="http://www.mimuw.edu.pl/~tarlecki/teaching/ct/">Category Theory in Foundations of Computer Science</a></li>
 <li title="haskell, fp" time="1499326349"><a href="http://infohost.nmt.edu/~shipman/soft/cleanhaskell/web/index.html">Cleanroom Haskell notes</a></li>
+<li title="proglang" time="1503255193"><a href="https://www.cs.cornell.edu/courses/cs4110/2016fa/schedule.html">CS 4110: Programming Languages and Logics</a></li>
 <li title="ee" time="1498987359"><a href="http://curtisma.org/">Curtis Mayberry Homepage</a></li>
 <li title="security" time="1490256564"><a href="https://cybersecuritybase.github.io/">Cyber Security Base</a></li>
 <li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
@@ -21,6 +23,7 @@
 <li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
 <li title="purescript, webdev, " time="1489614248"><a href="https://blog.ecliptic.io/gradual-purescript-fa84ad99fdbd">Gradual PureScript</a></li>
 <li title="ops" time="1490256472"><a href="https://www.ops-class.org/">Hack The Kernel</a></li>
+<li title="haskell, mobile" time="1503472788"><a href="https://brianmckenna.org/blog/eta_android">Haskell on Android using Eta</a></li>
 <li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
@@ -39,7 +42,7 @@
 <li title="algo, math" time="1498986799"><a href="http://inconvergent.net/generative/">On Generative Algorithms</a></li>
 <li title="ops, " time="1490257234"><a href="https://tuhdo.github.io/os01/">Operating Systems: From 0 to 1</a></li>
 <li title="haskell, fp" time="1498986414"><a href="http://chimera.labs.oreilly.com/books/1230000000929/index.html">Parallel and Concurrent Programming in Haskell</a></li>
-<li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
+<li title="haskell, fp, proglang" time="1503254978"><a href="http://www.cse.chalmers.se/edu/year/2015/course/DAT150/lectures/proglang-07.html">Programming Languages Course: Type Checking</a></li>
 <li title="fp, haskell" time="1500038945"><a href="http://teh.id.au/posts/2017/04/23/property-testing-with-hedgehog/index.html">Property testing with Hedgehog</a></li>
 <li title="c++, graphics" time="1490257481"><a href="http://www.marti.works/render-pipelines-desing-in-c/">Render Pipelines desing in C++</a></li>
 <li title="webdev" time="1495284829"><a href="https://www.infoq.com/articles/rest-anti-patterns/">REST Anti-Patterns</a></li>
@@ -48,7 +51,7 @@
 <li title="startup, sales, analytics" time="1498986680"><a href="https://getpocket.com/a/read/1216744029">Setting up Sales Funnel across websites in Google Analytics</a></li>
 <li title="fp, haskell" time="1502473396"><a href="http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html">State machine testing with Hedgehog</a></li>
 <li title="security" time="1498987011"><a href="http://dustwell.com/how-to-handle-passwords-bcrypt.html">Storing User Passwords Securely: hashing, salting, and Bcrypt</a></li>
-<li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a></li>
+<li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a><span class="context">&nbsp;✎&nbsp;</span><span class="context">&nbsp;♻&nbsp;</span></li>
 <li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
 <li title="webdev, security, javascript" time="1495284950"><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
 <li title="shell, unix" time="1498987155"><a href="http://porkmail.org/era/unix/award.html">Useless Use of Cat Award</a></li>
@@ -56,5 +59,6 @@
 <li title="purescript, webdev" time="1483351383"><a href="http://jandupal.com/Web-Workers-in-PureScript-part-I/">Web Workers in PureScript</a></li>
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
-<li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
+<li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
+<li title="fp, haskell" time="1503600253"><a href="http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/">An Introduction to Recursion Schemes</a></li>
