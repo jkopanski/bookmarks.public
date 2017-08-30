@@ -52,6 +52,7 @@
 <li title="startup, sales, analytics" time="1498986680"><a href="https://getpocket.com/a/read/1216744029">Setting up Sales Funnel across websites in Google Analytics</a></li>
 <li title="fp, haskell" time="1502473396"><a href="http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html">State machine testing with Hedgehog</a></li>
 <li title="security" time="1498987011"><a href="http://dustwell.com/how-to-handle-passwords-bcrypt.html">Storing User Passwords Securely: hashing, salting, and Bcrypt</a></li>
+<li title="fp, haskell, proglang" time="1503607203"><a href="http://blog.ezyang.com/2013/05/the-ast-typing-problem/">The AST Typing Problem</a></li>
 <li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a></li>
 <li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
 <li title="webdev, security, javascript" time="1495284950"><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
@@ -62,4 +63,4 @@
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="fp, haskell, proglang" time="1503607203"><a href="http://blog.ezyang.com/2013/05/the-ast-typing-problem/">The AST Typing Problem</a></li>
+<li title="fp, haskell" time="1504104393"><a href="http://www.parsonsmatt.org/2016/10/26/grokking_fix.html">Grokking Fix</a></li>
