@@ -2,6 +2,7 @@
 <li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
 <li title="hw" time="1503472567"><a href="https://danluu.com/branch-prediction/">A history of branch prediction from 1500000 BC to 1995</a></li>
 <li title="fp" time="1484331569"><a href="http://degoes.net/articles/modern-fp">A Modern Architecture for FP</a></li>
+<li title="haskell, fp, compilers" time="1504394117"><a href="https://www.andres-loeh.de/LambdaPi/">A Tutorial Implementation of a Dependently Typed Lambda Calculus</a></li>
 <li title="fp, haskell, proglang" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
 <li title="algo" time="1498987292"><a href="http://courses.csail.mit.edu/6.851/">Advanced Data Structures</a></li>
 <li title="fp, javascript" time="1495284778"><a href="http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html">All About Recursion, PTC, TCO and STC in JavaScript</a></li>
@@ -28,17 +29,20 @@
 <li title="haskell, mobile" time="1503472788"><a href="https://brianmckenna.org/blog/eta_android">Haskell on Android using Eta</a></li>
 <li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
+<li title="haskell, fp, compilers" time="1504394091"><a href="http://www.stephendiehl.com/llvm/">Implementing a JIT Compiled Language with Haskell and LLVM</a></li>
 <li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
 <li title="ee, fp" time="1484043663"><a href="http://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html">Isomorpisms of digital circuts</a></li>
 <li title="japanese" time="1498984953"><a href="http://www.gpb.org/irasshai/term">Japanese Video Lessons</a></li>
 <li title="startup, sales" time="1498987083"><a href="http://thelandingpagecourse.com/landing-page-elements-blueprint/">Landing Page Conversion Course</a></li>
 <li title="javascript, webdev" time="1483351343"><a href="http://ejohn.org/apps/learn/">Learning Advanced Javascript</a></li>
 <li title="shell, unix" time="1498987408"><a href="http://jvns.ca/blog/2016/09/07/new-zine-linux-debugging-tools-youll-love/">Linux debugging tools you'll love</a></li>
+<li title="graphics, unix" time="1504167005"><a href="http://betteros.org/tut/graphics1.php">Low-Level Graphics on Linux</a></li>
 <li title="algo, math" time="1498986860"><a href="https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/">Markov Chain Monte Carlo Without all the Bullshit</a></li>
 <li title="data minning" time="1483351556"><a href="http://mmds.org/">Mining of Massive Datasets</a></li>
 <li title="c++, fp, algo" time="1490257565"><a href="https://chriskohlhepp.wordpress.com/advanced-c-lisp/convergence-of-modern-cplusplus-and-lisp/">Modern C++ and Lisp Programming Style</a></li>
 <li title="fp, haskell" time="1486223736"><a href="https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html">Monad transformers, free monads, mtl, laws and a new approach</a></li>
 <li title="fp, assembly" time="1493128445"><a href="http://www.stephendiehl.com/posts/monads_machine_code.html">Monads to Machine Code</a></li>
+<li title="compilers" time="1504394206"><a href="http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/">My first fifteen compilers</a></li>
 <li title="deep learning, neural networks" time="1483351615"><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a></li>
 <li title="python" time="1483352207"><a href="http://newcoder.io/">New Coder</a></li>
 <li title="algo, math" time="1498986799"><a href="http://inconvergent.net/generative/">On Generative Algorithms</a></li>
@@ -62,6 +66,7 @@
 <li title="purescript, webdev" time="1483351383"><a href="http://jandupal.com/Web-Workers-in-PureScript-part-I/">Web Workers in PureScript</a></li>
 <li title="fp, haskell, " time="1490257417"><a href="https://www.imn.htwk-leipzig.de/~waldmann/etc/untutorial/list-or-not-list/">When You Should Use Lists in Haskell (Mostly, You Should Not)</a></li>
 <li title="category theory, fp, math" time="1490265913"><a href="https://github.com/skaslev/why-types">Why Types Matter</a></li>
+<li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="graphics, unix" time="1504167005"><a href="http://betteros.org/tut/graphics1.php">Low-Level Graphics on Linux</a></li>
+<li title="fp, haskell, proglang, compilers" time="1505120640"><a href="https://hydraz.club/posts/2017-09-08.html">Dependent Types</a></li>
