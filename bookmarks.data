@@ -70,3 +70,7 @@
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
 <li title="fp, haskell, proglang, compilers" time="1505120640"><a href="https://hydraz.club/posts/2017-09-08.html">Dependent Types</a></li>
+<li title="haskell, fp, compilers" time="1504394091"><a href="http://www.stephendiehl.com/llvm/">Implementing a JIT Compiled Language with Haskell and LLVM</a></li>
+<li title="haskell, fp, compilers" time="1504394117"><a href="https://www.andres-loeh.de/LambdaPi/">A Tutorial Implementation of a Dependently Typed Lambda Calculus</a></li>
+<li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
+<li title="compilers" time="1504394206"><a href="http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/">My first fifteen compilers</a></li>
