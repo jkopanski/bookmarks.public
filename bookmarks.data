@@ -25,13 +25,11 @@
 <li title="security, math" time="1507719924"><a href="http://blog.wesleyac.com/posts/elliptic-curves">Elliptic Curve Cryptography for Beginners</a></li>
 <li title="javascript, webdev" time="1498986556"><a href="http://jlord.us/essential-electron/">Essential Electron</a></li>
 <li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
-<li title="assembly, compilers, fp" time="1510561513"><a href="https://dbp.io/artifacts/funtal/">FunTAL: mixing a functional language with assembly.</a></li>
 <li title="purescript, webdev, " time="1489614248"><a href="https://blog.ecliptic.io/gradual-purescript-fa84ad99fdbd">Gradual PureScript</a></li>
 <li title="fp, haskell" time="1504104393"><a href="http://www.parsonsmatt.org/2016/10/26/grokking_fix.html">Grokking Fix</a></li>
 <li title="ops" time="1490256472"><a href="https://www.ops-class.org/">Hack The Kernel</a></li>
 <li title="haskell, mobile" time="1503472788"><a href="https://brianmckenna.org/blog/eta_android">Haskell on Android using Eta</a></li>
 <li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
-<li title="ops, pm" time="1510838961"><a href="https://lkml.org/lkml/2017/11/14/184">How to make a good pull request to Linus</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="haskell, fp, compilers" time="1504394091"><a href="http://www.stephendiehl.com/llvm/">Implementing a JIT Compiled Language with Haskell and LLVM</a></li>
 <li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
@@ -60,7 +58,6 @@
 <li title="fp, scala" time="1483352155"><a href="https://www.scala-exercises.org/">Scala Exercises</a></li>
 <li title="productivity" time="1483445190"><a href="https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/">Set goals with OKRs</a></li>
 <li title="startup, sales, analytics" time="1498986680"><a href="https://getpocket.com/a/read/1216744029">Setting up Sales Funnel across websites in Google Analytics</a></li>
-<li title="algo, fp, math" time="1508870292"><a href="https://softwarefoundations.cis.upenn.edu/current/index.html">Software Foundations</a></li>
 <li title="fp, haskell" time="1502473396"><a href="http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html">State machine testing with Hedgehog</a></li>
 <li title="security" time="1498987011"><a href="http://dustwell.com/how-to-handle-passwords-bcrypt.html">Storing User Passwords Securely: hashing, salting, and Bcrypt</a></li>
 <li title="fp, haskell, proglang" time="1503607203"><a href="http://blog.ezyang.com/2013/05/the-ast-typing-problem/">The AST Typing Problem</a></li>
@@ -75,4 +72,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="networking" time="1511252863"><a href="http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html">Becoming Your Own ISP, Just for Fun</a></li>
+<li title="algo, fp, math" time="1508870292"><a href="https://softwarefoundations.cis.upenn.edu/current/index.html">Software Foundations</a></li>
