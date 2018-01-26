@@ -33,6 +33,7 @@
 <li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="haskell, fp, compilers" time="1504394091"><a href="http://www.stephendiehl.com/llvm/">Implementing a JIT Compiled Language with Haskell and LLVM</a></li>
+<li title="haskell" time="1515764590"><a href="https://blog.jle.im/entry/introduction-to-singletons-1.html">Introduction to Singletons</a></li>
 <li title="llvm, assembly" time="1483351255"><a href="https://idea.popcount.org/2013-07-24-ir-is-better-than-assembly/">IR is better than assembly</a></li>
 <li title="ee, fp" time="1484043663"><a href="http://rahne.si/programming/clash/fpga/2016/12/23/iso-circuits.html">Isomorpisms of digital circuts</a></li>
 <li title="japanese" time="1498984953"><a href="http://www.gpb.org/irasshai/term">Japanese Video Lessons</a></li>
@@ -75,4 +76,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="haskell" time="1515764590"><a href="https://blog.jle.im/entry/introduction-to-singletons-1.html">Introduction to Singletons</a></li>
+<li title="compilers, haskell, proglang" time="1516955297"><a href="https://dbp.io/essays/2018-01-16-how-to-prove-a-compiler-correct.html">How to prove a compiler correct</a></li>
