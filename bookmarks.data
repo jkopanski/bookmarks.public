@@ -31,6 +31,7 @@
 <li title="haskell, mobile" time="1503472788"><a href="https://brianmckenna.org/blog/eta_android">Haskell on Android using Eta</a></li>
 <li title="haskell" time="1513775836"><a href="http://www.parsonsmatt.org/2017/12/18/haskell_performance_debugging.html">Haskell Performance Debugging</a></li>
 <li title="category theory, math" time="1493144513"><a href="https://homotopytypetheory.org/">Homotopy Type Theory</a></li>
+<li title="compilers, haskell, proglang" time="1516955297"><a href="https://dbp.io/essays/2018-01-16-how-to-prove-a-compiler-correct.html">How to prove a compiler correct</a></li>
 <li title="algo" time="1483487469"><a href="https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/">I Wrote a Faster Sorting Algorithm</a></li>
 <li title="haskell, fp, compilers" time="1504394091"><a href="http://www.stephendiehl.com/llvm/">Implementing a JIT Compiled Language with Haskell and LLVM</a></li>
 <li title="haskell" time="1515764590"><a href="https://blog.jle.im/entry/introduction-to-singletons-1.html">Introduction to Singletons</a></li>
@@ -76,4 +77,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="compilers, haskell, proglang" time="1516955297"><a href="https://dbp.io/essays/2018-01-16-how-to-prove-a-compiler-correct.html">How to prove a compiler correct</a></li>
+<li title="webdev" time="1518193054"><a href="https://tyk.io/blog/taking-rest-beyond-crud/">Taking REST beyond CRUD</a></li>
