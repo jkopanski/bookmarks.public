@@ -44,6 +44,7 @@
 <li title="webdev" time="1505723556"><a href="http://book.mixu.net/css/single-page.html">Learn CSS Layout, the pedantic way</a></li>
 <li title="javascript, webdev" time="1483351343"><a href="http://ejohn.org/apps/learn/">Learning Advanced Javascript</a></li>
 <li title="shell, unix" time="1498987408"><a href="http://jvns.ca/blog/2016/09/07/new-zine-linux-debugging-tools-youll-love/">Linux debugging tools you'll love</a></li>
+<li title="formal, haskell" time="1519680008"><a href="https://liquid.kosmikus.org/">Liquid Haskell Tutorial</a></li>
 <li title="graphics, unix" time="1504167005"><a href="http://betteros.org/tut/graphics1.php">Low-Level Graphics on Linux</a></li>
 <li title="algo, math" time="1498986860"><a href="https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/">Markov Chain Monte Carlo Without all the Bullshit</a></li>
 <li title="data minning" time="1483351556"><a href="http://mmds.org/">Mining of Massive Datasets</a></li>
@@ -79,4 +80,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="formal, haskell" time="1519680008"><a href="https://liquid.kosmikus.org/">Liquid Haskell Tutorial</a></li>
+<li title="category theory, math" time="1520602408"><a href="https://byorgey.wordpress.com/catsters-guide-2/">Catsters guide</a></li>
