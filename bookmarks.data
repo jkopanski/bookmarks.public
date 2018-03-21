@@ -69,6 +69,7 @@
 <li title="algo, fp, math" time="1508870292"><a href="https://softwarefoundations.cis.upenn.edu/current/index.html">Software Foundations</a></li>
 <li title="fp, haskell" time="1502473396"><a href="http://teh.id.au/posts/2017/07/15/state-machine-testing/index.html">State machine testing with Hedgehog</a></li>
 <li title="security" time="1498987011"><a href="http://dustwell.com/how-to-handle-passwords-bcrypt.html">Storing User Passwords Securely: hashing, salting, and Bcrypt</a></li>
+<li title="compilers, proglang" time="1521619915"><a href="http://sarabander.github.io/sicp/">Structure and Interpretation of Computer Programs</a></li>
 <li title="webdev" time="1518193054"><a href="https://tyk.io/blog/taking-rest-beyond-crud/">Taking REST beyond CRUD</a></li>
 <li title="fp, haskell, proglang" time="1503607203"><a href="http://blog.ezyang.com/2013/05/the-ast-typing-problem/">The AST Typing Problem</a></li>
 <li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a></li>
@@ -82,4 +83,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="compilers, proglang" time="1521619915"><a href="http://sarabander.github.io/sicp/">Structure and Interpretation of Computer Programs</a></li>
+<li title="proglang" time="1521639275"><a href="http://steshaw.org/plt/">A path to enlightenment in Programming Language Theory</a></li>
