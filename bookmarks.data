@@ -2,6 +2,7 @@
 <li title="neural networks" time="1490256766"><a href="http://pages.cs.wisc.edu/~bolo/shipyard/neural/local.html">A Basic Introduction To Neural Networks</a></li>
 <li title="hw" time="1503472567"><a href="https://danluu.com/branch-prediction/">A history of branch prediction from 1500000 BC to 1995</a></li>
 <li title="fp" time="1484331569"><a href="http://degoes.net/articles/modern-fp">A Modern Architecture for FP</a></li>
+<li title="proglang" time="1521639275"><a href="http://steshaw.org/plt/">A path to enlightenment in Programming Language Theory</a></li>
 <li title="haskell, fp, compilers" time="1504394117"><a href="https://www.andres-loeh.de/LambdaPi/">A Tutorial Implementation of a Dependently Typed Lambda Calculus</a></li>
 <li title="fp, haskell, proglang" time="1502729304"><a href="https://fineshambles.com/2017/07/26/a-type-inference-implementation-adventure/">A Type Inference Implementation Adventure</a></li>
 <li title="algo" time="1498987292"><a href="http://courses.csail.mit.edu/6.851/">Advanced Data Structures</a></li>
@@ -83,4 +84,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="proglang" time="1521639275"><a href="http://steshaw.org/plt/">A path to enlightenment in Programming Language Theory</a></li>
+<li title="category theory, math" time="1522066036"><a href="http://math.mit.edu/~dspivak/teaching/sp18/">Seven Sketches in Compositionality: An Invitation to Applied Category Theory</a></li>
