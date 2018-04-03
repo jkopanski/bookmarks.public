@@ -78,6 +78,7 @@
 <li title="haskell, fp" time="1495284607"><a href="https://begriffs.com/posts/2017-01-14-design-use-quickcheck.html">The Design and Use of QuickCheck</a></li>
 <li title="bizdev" time="1484213154"><a href="https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.e3ukbx9b5">The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself</a></li>
 <li title="webdev, security, javascript" time="1495284950"><a href="https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/">Things to Use Instead of JWT</a></li>
+<li title="haskell" time="1522133324"><a href="http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html">Three Layer Haskell Cake</a></li>
 <li title="shell, unix" time="1498987155"><a href="http://porkmail.org/era/unix/award.html">Useless Use of Cat Award</a></li>
 <li title="css, webdev" time="1483351418"><a href="http://cssreference.io/">Visual guide to CSS</a></li>
 <li title="purescript, webdev" time="1483351383"><a href="http://jandupal.com/Web-Workers-in-PureScript-part-I/">Web Workers in PureScript</a></li>
@@ -86,4 +87,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="haskell" time="1522133324"><a href="http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html">Three Layer Haskell Cake</a></li>
+<li title="dist" time="1522742468"><a href="http://dist-prog-book.com/chapter/3/message-passing.html">Message Passing and the Actor Model</a></li>
