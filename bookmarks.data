@@ -27,6 +27,7 @@
 <li title="algo, c++" time="1489789743"><a href="http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/">Data structures and algorithms problems in C++ using STL</a></li>
 <li title="fp, haskell, proglang, compilers" time="1505120640"><a href="https://hydraz.club/posts/2017-09-08.html">Dependent Types</a></li>
 <li title="security, math" time="1507719924"><a href="http://blog.wesleyac.com/posts/elliptic-curves">Elliptic Curve Cryptography for Beginners</a></li>
+<li title="emacs" time="1537383296"><a href="http://y.tsutsumi.io/emacs-from-scratch-part-1-extending-emacs-basics.html">Emacs From Scratch</a></li>
 <li title="javascript, webdev" time="1498986556"><a href="http://jlord.us/essential-electron/">Essential Electron</a></li>
 <li title="pm" time="1484213380"><a href="https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/">Evidence Based Scheduling</a></li>
 <li title="category theory, fp, haskell, progloang" time="1522132634"><a href="http://www.timphilipwilliams.com/posts/2013-01-16-fixing-gadts.html">Fixing GADTs</a></li>
@@ -92,4 +93,4 @@
 <li title="haskell, fp, compilers" time="1504394156"><a href="https://wespiser.com/writings/wyas/home.html">Write You A Scheme, Version 2</a></li>
 <li title="fp, haskell" time="1502746970"><a href="https://jship.github.io/posts/2017-08-09-writing-performant-haskell-part-1.html">Writing Performant Haskell</a></li>
 <li title="devops" time="1490257010"><a href="https://scotte.org/2016/12/ZFS-root-filesystem-on-AWS">ZFS Root Filesystem on AWS</a></li>
-<li title="emacs" time="1537383296"><a href="http://y.tsutsumi.io/emacs-from-scratch-part-1-extending-emacs-basics.html">Emacs From Scratch</a></li>
+<li title="compilers, haskell" time="1538116900"><a href="http://mpickering.github.io/plugins.html">GHC plugins</a></li>
